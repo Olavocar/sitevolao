@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+    <title>volao</title>
+    <link rel="stylesheet" href="estilo.css">
+
+</head>
+
+<body></body>
+
+<h4>volao</h4>
+
+<br>
+Conheça o artista, rapper carioca
+<br>
+
+<h2>Acesse o site:</h2>
+<br>
+<a href="https://olavocarnovo.wixstudio.io/volao">Site: volao</a>
+<br>
+<br>
+<br>
+entre em contato pelo whatsapp:
+<br><br>
+<a href="https://w.app/daarearj">21 90895-8408</a>
+<br>
+<br>
+<img src="https://olavocar.github.io/sitevolao/volaologo.png" width="120" height="180">
+
+<br>
+<br>
+Cantor, músico e produtor musical, fundador do selo @daarearj<br>
+visite também <a href="https://daarearj.com">Da Área RJ.com</a><br>
+acesse também seu curso de produção musical do zero,<br>
+com módulos onde o participante aprenderá técnicas para <br>
+produção musical do zero no FL.
+
+<br>
+<br>
+<a href="https://hotmart.com/pt-br/marketplace/produtos/https-daarearj-net/J78953718Y">
+    https://hotmart.com/pt-br/marketplace/produtos/https-daarearj-net/J78953718Y
+</a>
+<br>
+<br>
+<img src="https://olavocar.github.io/fl20dozero/volao.jpeg" width="120" height="120">
+<br>
+<br>
+Olavo da Rocha e Silva de Carvalho
+2 Anos Hotmarter
+
+Músico e Profissional de TI / Engenheiro de Áudio,<br>
+interessado no seu e no nosso crescimento, buscando<br> 
+compartilhar conhecimentos e ajudar pessoas à se<br>
+desenvolverem. Escute minhas músicas, (volao) siga minhas redes<br> 
+sociais (@olavocar), fique à vontade para entrar em contato.<br>
+Desenvolvedor de TI e marketing digital. Nascido e criado<br>
+no bairro do Flamengo no Rio de Janeiro, cresceu pelos<br>
+arredores do Catete, Laranjeiras e Botafogo.<br>
+Sempre buscou conhecimentos na área das artes e da tecnologia.<br>
+
+<br>
+Entre em contato:
+<a href="https://w.app/daarearj">21 90895-8408</a>
+
+
+
+
+<br>
+<br>
+Acesse:
+<a href="https://hotmart.com/pt-br/marketplace/produtos/https-daarearj-net/J78953718Y">
+    https://hotmart.com/pt-br/marketplace/produtos/https-daarearj-net/J78953718Y
+</a>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+</html>
